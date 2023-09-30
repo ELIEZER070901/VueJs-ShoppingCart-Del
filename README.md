@@ -13,4 +13,3 @@ Proyecto para el curso de Desarrollo de Aplicaciones Moviles
 ## AUTOR
 
 Alfonso Eliezer Reyes Torres
-<
